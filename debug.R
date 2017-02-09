@@ -1,3 +1,0 @@
-lm(y-x)
-
-#traceback()
